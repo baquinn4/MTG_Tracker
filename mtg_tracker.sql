@@ -16,6 +16,14 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Current Database: `group9`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `group9` /*!40100 DEFAULT CHARACTER SET latin1 */;
+
+USE `group9`;
+
+--
 -- Table structure for table `Card_Stocks`
 --
 
@@ -152,4 +160,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-11-22 23:25:50
+-- Dump completed on 2019-11-24 17:46:44
